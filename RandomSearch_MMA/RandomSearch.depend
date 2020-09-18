@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1454958859 source:e:\science\paper_minaxiomset\ef_implement\randomsearch_mma\src\mma.cpp
+	"MMA.h"
+
+1452545946 e:\science\paper_minaxiomset\ef_implement\randomsearch_mma\include\mma.h
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+

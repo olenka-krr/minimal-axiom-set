@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1436382854 source:e:\science\paper_minaxiomset\ef_impliment\efm_mma\main.cpp
+	"src\RSet.cpp"
+
+1436382937 e:\science\paper_minaxiomset\ef_impliment\efm_mma\src\rset.cpp
+	<iostream>
+	<stdio.h>
+	"RSet.h"
+
+1436382937 e:\science\paper_minaxiomset\ef_impliment\efm_mma\include\rset.h
+
+1436382937 source:e:\science\paper_minaxiomset\ef_impliment\efm_mma\src\rset.cpp
+	<iostream>
+	<stdio.h>
+	"RSet.h"
+
+1436815131 source:e:\science\paper_minaxiomset\ef_implement\efm_mma\src\rset.cpp
+	<iostream>
+	<stdio.h>
+	"RSet.h"
+
+1436814191 e:\science\paper_minaxiomset\ef_implement\efm_mma\include\rset.h
+	<cstdio>
+
+1461420706 source:e:\science\paper_minaxiomset\ef_implement\efm_mma\main.cpp
+	"include\MMA.h"
+	"include\Public.h"
+	"Public_init.h"
+
+1436393529 e:\science\paper_minaxiomset\ef_implement\efm_mma\src\rset.cpp
+	<iostream>
+	<stdio.h>
+	"RSet.h"
+
+1459777001 e:\science\paper_minaxiomset\ef_implement\efm_mma\include\mma.h
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+
+1459766412 source:e:\science\paper_minaxiomset\ef_implement\efm_mma\src\evf.cpp
+	"MMA.h"
+
+1459777001 source:e:\science\paper_minaxiomset\ef_implement\efm_mma\src\mma.cpp
+	"MMA.h"
+
+1459265202 e:\science\paper_minaxiomset\ef_implement\efm_mma\include\public.h
+	"Define_file_name.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1444906381 e:\science\paper_minaxiomset\ef_implement\efm_mma\include\define_file_name.h
+
+1474058340 source:e:\science\paper6_minaxiomset_usim\ef_implement\efm_mma\main.cpp
+	"include\MMA.h"
+	"include\Public.h"
+	"Public_init.h"
+
+1459773401 e:\science\paper6_minaxiomset_usim\ef_implement\efm_mma\include\mma.h
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+
+1459261602 e:\science\paper6_minaxiomset_usim\ef_implement\efm_mma\include\public.h
+	"Define_file_name.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1444902781 e:\science\paper6_minaxiomset_usim\ef_implement\efm_mma\include\define_file_name.h
+
+1459762812 source:e:\science\paper6_minaxiomset_usim\ef_implement\efm_mma\src\evf.cpp
+	"MMA.h"
+
+1459773401 source:e:\science\paper6_minaxiomset_usim\ef_implement\efm_mma\src\mma.cpp
+	"MMA.h"
+
+1600381048 source:e:\science\git_minaxiomset\efm_mma\src\evf.cpp
+	"MMA.h"
+
+1600380503 e:\science\git_minaxiomset\efm_mma\include\mma.h
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+
+1600381048 source:e:\science\git_minaxiomset\efm_mma\src\mma.cpp
+	"MMA.h"
+

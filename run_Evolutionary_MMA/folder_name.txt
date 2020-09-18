@@ -1,0 +1,18 @@
+Folder
+321_`x1`t_c`x2`_st`x3`_`x4`s
+keeps x1 tasks. 
+
+Result (minimal found size of core) =  x2
+Number of steps = x3, number of relations = x2 * x3
+Number of statments (sentence) = x4 = x2 * (x3 + 1)
+Cardinality of the statment sets always = 1
+
+
+Folder
+321_`x1`t_`x2`s_`x3`r_`x4`m_`x5`l
+keeps x1 tasks.
+
+Number of statments (sentences) = x2 
+Number of relations = x3 
+Mean cardinality of the statment sets = x4
+Maximal cardinality of the statment sets = x5

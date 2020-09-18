@@ -1,0 +1,6 @@
+files 321_*.csv
+
+1st row: number_of_statements
+2nd row: number_of_relations
+other rows:
+number_of_sequential_statement cardinality_of_statement_set statement1_number statement2_number ...;  

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1459802752 source:e:\science\paper_minaxiomset\ef_implement\localsearch_mma\main.cpp
+	"include\MMA.h"
+	"include\Public.h"
+
+1459777138 e:\science\paper_minaxiomset\ef_implement\localsearch_mma\include\mma.h
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+
+1459265440 e:\science\paper_minaxiomset\ef_implement\localsearch_mma\include\public.h
+	"Define_file_name.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1458907203 e:\science\paper_minaxiomset\ef_implement\localsearch_mma\include\define_file_name.h
+
+1459635839 source:e:\science\paper_minaxiomset\ef_implement\localsearch_mma\src\localsearchalg.cpp
+	"E:\SCIENCE\paper_MinAxiomSet\EF_implement\LocalSearch_MMA\include\MMA.h"
+
+1459777138 source:e:\science\paper_minaxiomset\ef_implement\localsearch_mma\src\mma.cpp
+	"E:\SCIENCE\paper_MinAxiomSet\EF_implement\LocalSearch_MMA\include\MMA.h"
+
+1600381635 source:e:\science\git_minaxiomset\localsearch_mma\main.cpp
+	"include\MMA.h"
+	"include\Public.h"
+
+1600381635 e:\science\git_minaxiomset\localsearch_mma\include\mma.h
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+
+1600381635 e:\science\git_minaxiomset\localsearch_mma\include\public.h
+	"Define_file_name.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1458907203 e:\science\git_minaxiomset\localsearch_mma\include\define_file_name.h
+
